@@ -6,4 +6,4 @@ rm -rf node_modules
 yarn
 npm start
 
-echo "All dependencies have been installed, please run the command \"npm start\" to immediately start the script"
+echo "All dependencies have been installed, please run the command \"npm start\" to immediately start the script. if bot wontable to start, install pkg manual"
